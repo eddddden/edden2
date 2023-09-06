@@ -1,4 +1,4 @@
-Band A|https://banda.com|rock,pop
+JerusaBlues|https://www.youtube.com/watch?v=PDhgGn27dEs|rock,pop,covers,Acoustic guitar,Bass,Male Singer
 Band B|https://bandb.com|pop
 Band C|https://bandc.com|rocK
 Band D|https://bandc.com|rock
